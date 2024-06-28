@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color purple_700
+dimen bus_stop_item_horizontal_padding
+dimen bus_stop_item_vertical_padding
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_fullScheduleFragment_to_stopScheduleFragment
+id arrival_time_header
+id arrival_time_text_view
+id bus_stop_header
+id fullScheduleFragment
+id nav_graph
+id nav_host_fragment
+id recycler_view
+id stopScheduleFragment
+id stop_name_text_view
+layout activity_main
+layout bus_stop_item
+layout full_schedule_fragment
+layout stop_schedule_fragment
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+string app_name
+string arrival_time_header
+string bus_stop_header
+style Theme.BusScheduler

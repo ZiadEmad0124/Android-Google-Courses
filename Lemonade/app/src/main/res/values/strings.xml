@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="click_to_select_a_lemon">Click to select a lemon!</string>
+    <string name="click_to_juice_the_lemon">"Click to juice the lemon!"</string>
+    <string name="click_to_drink_your_lemonade">"Click to drink your lemonade!"</string>
+    <string name="click_to_start_again">"Click to start again!"</string>
+</resources>

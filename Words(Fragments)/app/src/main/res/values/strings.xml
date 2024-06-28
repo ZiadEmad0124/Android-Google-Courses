@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Words (Fragment)</string>
+    <string name="switch_layout">Switch Layout</string>
+    <string name="word_list_fragment_label">Words That Start With {letter}</string>
+</resources>

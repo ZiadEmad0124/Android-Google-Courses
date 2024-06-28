@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <dimen name="bus_stop_item_horizontal_padding">16dp</dimen>
+    <dimen name="bus_stop_item_vertical_padding">8dp</dimen>
+    <string name="app_name">Bus Schedule</string>
+    <string name="arrival_time_header">Arrival Time</string>
+    <string name="bus_stop_header">Stop Name</string>
+    <style name="Theme.BusScheduler" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+    </style>
+</resources>
